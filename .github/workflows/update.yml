@@ -34,13 +34,12 @@ jobs:
           npm start
 
       - name: Add
-        if: 0 == git diff --quiet
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git status
           git add .
-          git commit -m ":package: Update Downloads"
+          git diff-index --quiet HEAD || git commit -m ":package: Update Downloads"
 
       - name: Push
         uses: ad-m/github-push-action@master
