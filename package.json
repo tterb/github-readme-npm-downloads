@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node collect.mjs"
+    "start": "npx node@12 collect.mjs"
   },
   "repository": {
     "type": "git",
