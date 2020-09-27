@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "label": "npm",
   "message": "713374 Downloads",
-  "color": "orange",
-  "style": "plastic",
+  "color": "red",
+  "style": "flat",
   "namedLogo": "npm"
 }
