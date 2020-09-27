@@ -33,13 +33,8 @@ jobs:
         run: |
           npm start
 
-      - name: Check
-              
-        run: |
-          if ! git diff --quiet; then
-
       - name: Add
-        if: git diff --quiet
+        if: 0 == git diff --quiet
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
