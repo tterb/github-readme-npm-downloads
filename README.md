@@ -1,4 +1,4 @@
-# maddhruv npm-statistics
+<h1><a href="https://www.npmjs.com/~tterb" target="_blank" rel="noopenner noreferrer">tterb</a> npm-statistics</h1>
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftterb%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
 
