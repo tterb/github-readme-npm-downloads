@@ -10,8 +10,8 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                       | Downloads  |
 | -------------------------------------------------------------------------- | ---------- |
-| [disqus-react](https://www.npmjs.com/package/disqus-react)                 | 687990     |
-| [gatsby-plugin-disqus](https://www.npmjs.com/package/gatsby-plugin-disqus) | 77056      |
+| [disqus-react](https://www.npmjs.com/package/disqus-react)                 | 689785     |
+| [gatsby-plugin-disqus](https://www.npmjs.com/package/gatsby-plugin-disqus) | 77279      |
 | [tterb-test-package](https://www.npmjs.com/package/tterb-test-package)     | 1031       |
-| **Sum**                                                                    | **766077** |
+| **Sum**                                                                    | **768095** |
 <!-- AUTO-GENERATED-CONTENT:END -->
